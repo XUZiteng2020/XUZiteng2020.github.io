@@ -1,3 +1,4 @@
+theme: academic
 plugins:
   - jekyll-feed
   - jekyll-sitemap
